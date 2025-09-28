@@ -1,3 +1,21 @@
+A full-stack Retrieval-Augmented Generation (RAG) benchmarking platform designed to evaluate vector search latency across multiple databases (PostgreSQL, Cassandra, ClickHouse). The system allows engineers to query 40K+ embedded documents, customize LLM models, switch between databases, and test over 30 query scenarios.
+
+Key Features
+
+⚡ Database benchmarking → measure vector search latency across PostgreSQL, Cassandra, and ClickHouse
+
+📚 HuggingFace embeddings → 40K+ documents embedded for real-time retrieval
+
+🐳 FastAPI + Dockerized backend → seven modular services with interchangeable database support
+
+📊 Streamlit GUI with Grafana dashboards → interactive interface to monitor latency metrics, debug logs, and responses
+
+🔧 Customizable pipeline → engineers can swap LLMs, databases, and query configs for flexible testing
+
+Tech Stack
+Python · FastAPI · Docker · HuggingFace · Streamlit · Grafana · PostgreSQL · Cassandra · ClickHouse
+
+
 ```
 ░█████████     ░███      ░██████     ░███████   ░████████              
 ░██     ░██   ░██░██    ░██   ░██    ░██   ░██  ░██    ░██             
