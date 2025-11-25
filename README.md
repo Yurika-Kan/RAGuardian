@@ -23,8 +23,14 @@ User --> queries the LLM:
 
 
 <img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/1d45018d-bedf-424a-b9ce-9f9e16425ba7" />
+
+
+
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/851f5d5f-e29d-4a24-b7be-5636464f31e2" />
+
+
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/00bc30fb-987f-4005-8b6b-6093338ad1a6" />
+
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/5a9574b6-ad64-40f3-a741-40b904485068" />
 
 
@@ -49,7 +55,13 @@ This repository is designed for **benchmarking popular Retrieval-Augmented Gener
 
 ---
 
-## Quick Start
+## Documentation
+
+### NetApp Documents 
+- [Vector Search Benchmarking Embeddings with Postgresql](https://www.instaclustr.com/blog/vector-search-benchmarking-setting-up-embeddings-insertion-and-retrieval-with-postgresql/)
+
+- [Vector Search Benchmarking Embeddings with Clickhouse and Apache Cassandra](https://www.instaclustr.com/blog/vector-search-benchmarking-embeddings-insertion-and-searching-documents-with-clickhouse-and-apache-cassandra/)
+
 
 ### 1. Clone & Install
 
