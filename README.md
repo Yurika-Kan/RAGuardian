@@ -62,6 +62,9 @@ This repository is designed for **benchmarking popular Retrieval-Augmented Gener
 
 - [Vector Search Benchmarking Embeddings with Clickhouse and Apache Cassandra](https://www.instaclustr.com/blog/vector-search-benchmarking-embeddings-insertion-and-searching-documents-with-clickhouse-and-apache-cassandra/)
 
+### Notes
+- [Vector Search Benchmarking Embeddings with Clickhouse and Apache Cassandra](https://www.notion.so/maxbolz/CS4990-23108a9d061080a1ac13e647301eed0b)
+
 
 ### 1. Clone & Install
 
